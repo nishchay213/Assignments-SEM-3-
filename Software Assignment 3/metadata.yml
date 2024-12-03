@@ -1,0 +1,14 @@
+---
+:id: 279936406
+:submitters:
+- :name: Nishchay Patil
+  :email: cs1230269@cse.iitd.ac.in
+- :name: Parth Agrawal
+  :email: cs1230251@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-20 18:15:51.296645000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-20 11:15:51.296645000 Z
+:status: processed
+:score: 83.0

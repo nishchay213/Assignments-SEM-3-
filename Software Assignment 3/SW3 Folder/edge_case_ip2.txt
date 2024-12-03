@@ -1,0 +1,5 @@
+g1 6 4 7
+pins g1 0 1 0 2 0 3
+g2 8 9 8
+pins g2 8 3 8 5 8 2 8 9
+wire_delay 5

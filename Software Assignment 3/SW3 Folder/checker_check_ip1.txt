@@ -1,0 +1,14 @@
+g1 67 71 10
+pins g1 0 68 67 35
+g2 57 54 26
+pins g2 0 20 57 40
+g3 70 72 41
+pins g3 0 50 0 72 70 21
+g4 58 57 16
+pins g4 0 36 58 6
+g5 55 57 43
+pins g5 0 44 55 2
+wire g1.p2 g2.p1
+wire g1.p2 g3.p1
+wire g1.p2 g4.p1
+wire g1.p2 g5.p1
