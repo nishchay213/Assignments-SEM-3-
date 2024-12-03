@@ -1,0 +1,285 @@
+g1 59 53
+pins g1 59 26
+g2 52 50
+pins g2 0 40
+g3 57 57
+pins g3 57 28
+g4 58 55
+pins g4 58 7
+g5 51 57
+pins g5 51 11
+g6 56 56
+pins g6 0 37
+g7 55 57
+pins g7 0 6
+g8 59 60
+pins g8 0 6
+g9 60 53
+pins g9 0 6
+g10 51 54
+pins g10 51 24
+g11 51 57
+pins g11 0 48
+g12 57 58
+pins g12 57 58
+g13 57 57
+pins g13 57 43
+g14 53 60
+pins g14 0 20
+g15 55 51
+pins g15 0 6
+g16 54 58
+pins g16 54 25
+g17 51 51
+pins g17 51 44
+g18 52 51
+pins g18 52 32
+g19 50 58
+pins g19 0 50
+g20 58 58
+pins g20 0 58
+g21 58 60
+pins g21 58 50
+g22 59 58
+pins g22 0 2
+g23 51 54
+pins g23 0 25
+g24 51 51
+pins g24 51 15
+g25 59 52
+pins g25 59 44
+g26 51 55
+pins g26 51 5
+g27 56 57
+pins g27 56 26
+g28 60 50
+pins g28 0 41
+g29 52 55
+pins g29 52 44
+g30 54 56
+pins g30 54 53
+g31 55 53
+pins g31 0 31
+g32 57 56
+pins g32 0 52
+g33 53 60
+pins g33 53 18
+g34 57 59
+pins g34 57 36
+g35 60 59
+pins g35 60 29
+g36 57 58
+pins g36 57 1
+g37 52 51
+pins g37 52 47
+g38 55 54
+pins g38 0 30
+g39 53 55
+pins g39 53 40
+g40 57 59
+pins g40 57 52
+g41 51 60
+pins g41 51 8
+g42 50 59
+pins g42 0 29
+g43 50 60
+pins g43 50 37
+g44 55 50
+pins g44 55 29
+g45 59 56
+pins g45 0 6
+g46 51 56
+pins g46 0 2
+g47 58 57
+pins g47 58 13
+g48 57 52
+pins g48 57 34
+g49 60 51
+pins g49 0 11
+g50 54 58
+pins g50 0 27
+g51 56 58
+pins g51 56 21
+g52 56 54
+pins g52 0 41
+g53 56 56
+pins g53 56 25
+g54 54 50
+pins g54 54 42
+g55 54 59
+pins g55 54 35
+g56 54 56
+pins g56 54 36
+g57 52 50
+pins g57 52 7
+g58 55 52
+pins g58 55 37
+g59 57 50
+pins g59 57 27
+g60 54 56
+pins g60 0 31
+g61 51 60
+pins g61 0 43
+g62 50 58
+pins g62 0 25
+g63 58 56
+pins g63 0 17
+g64 55 58
+pins g64 55 37
+g65 50 58
+pins g65 50 9
+g66 60 56
+pins g66 60 21
+g67 55 50
+pins g67 55 8
+g68 55 60
+pins g68 0 24
+g69 60 55
+pins g69 0 44
+g70 58 51
+pins g70 58 47
+g71 52 56
+pins g71 52 46
+g72 52 50
+pins g72 0 47
+g73 54 56
+pins g73 54 12
+g74 54 56
+pins g74 0 25
+g75 53 60
+pins g75 0 10
+g76 55 51
+pins g76 0 16
+g77 59 57
+pins g77 0 55
+g78 52 56
+pins g78 0 11
+g79 53 57
+pins g79 0 21
+g80 53 55
+pins g80 0 33
+g81 54 59
+pins g81 54 9
+g82 58 50
+pins g82 0 42
+g83 58 56
+pins g83 58 41
+g84 58 51
+pins g84 58 38
+g85 56 53
+pins g85 56 20
+g86 56 59
+pins g86 56 4
+g87 51 50
+pins g87 0 40
+g88 56 51
+pins g88 0 8
+g89 54 55
+pins g89 54 55
+g90 55 54
+pins g90 0 28
+g91 51 54
+pins g91 51 31
+g92 58 53
+pins g92 58 24
+g93 56 57
+pins g93 56 31
+g94 60 59
+pins g94 60 38
+g95 53 53
+pins g95 0 39
+g96 52 50
+pins g96 0 35
+g97 58 52
+pins g97 0 30
+g98 59 56
+pins g98 0 31
+g99 60 50
+pins g99 0 44
+g100 55 53
+pins g100 55 4
+wire g16.p1 g8.p1
+wire g8.p1 g69.p1
+wire g69.p1 g24.p1
+wire g24.p1 g75.p1
+wire g75.p1 g52.p1
+wire g76.p1 g36.p1
+wire g36.p1 g100.p1
+wire g100.p1 g34.p1
+wire g34.p1 g37.p1
+wire g37.p1 g44.p1
+wire g15.p1 g41.p1
+wire g41.p1 g56.p1
+wire g56.p1 g25.p1
+wire g25.p1 g7.p1
+wire g7.p1 g17.p1
+wire g74.p1 g4.p1
+wire g4.p1 g87.p1
+wire g87.p1 g28.p1
+wire g28.p1 g95.p1
+wire g95.p1 g20.p1
+wire g98.p1 g22.p1
+wire g22.p1 g10.p1
+wire g10.p1 g11.p1
+wire g11.p1 g53.p1
+wire g53.p1 g61.p1
+wire g27.p1 g65.p1
+wire g65.p1 g73.p1
+wire g73.p1 g63.p1
+wire g63.p1 g47.p1
+wire g47.p1 g64.p1
+wire g31.p1 g33.p1
+wire g33.p1 g67.p1
+wire g67.p1 g6.p1
+wire g6.p1 g43.p1
+wire g43.p1 g71.p1
+wire g19.p1 g62.p1
+wire g62.p1 g90.p1
+wire g90.p1 g35.p1
+wire g35.p1 g91.p1
+wire g91.p1 g68.p1
+wire g80.p1 g58.p1
+wire g58.p1 g89.p1
+wire g89.p1 g42.p1
+wire g42.p1 g51.p1
+wire g51.p1 g45.p1
+wire g49.p1 g96.p1
+wire g96.p1 g26.p1
+wire g26.p1 g93.p1
+wire g93.p1 g72.p1
+wire g72.p1 g57.p1
+wire g79.p1 g13.p1
+wire g13.p1 g59.p1
+wire g59.p1 g14.p1
+wire g14.p1 g55.p1
+wire g55.p1 g70.p1
+wire g97.p1 g32.p1
+wire g32.p1 g12.p1
+wire g12.p1 g60.p1
+wire g60.p1 g99.p1
+wire g99.p1 g46.p1
+wire g5.p1 g1.p1
+wire g1.p1 g81.p1
+wire g81.p1 g39.p1
+wire g39.p1 g18.p1
+wire g18.p1 g3.p1
+wire g83.p1 g94.p1
+wire g94.p1 g29.p1
+wire g29.p1 g88.p1
+wire g88.p1 g82.p1
+wire g82.p1 g30.p1
+wire g50.p1 g92.p1
+wire g92.p1 g38.p1
+wire g38.p1 g9.p1
+wire g9.p1 g21.p1
+wire g21.p1 g23.p1
+wire g23.p1 g40.p1
+wire g40.p1 g54.p1
+wire g54.p1 g48.p1
+wire g48.p1 g85.p1
+wire g85.p1 g2.p1
+wire g2.p1 g78.p1
+wire g78.p1 g84.p1
+wire g84.p1 g77.p1
+wire g77.p1 g86.p1
+wire g86.p1 g66.p1

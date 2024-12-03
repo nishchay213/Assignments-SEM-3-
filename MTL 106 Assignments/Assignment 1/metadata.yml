@@ -1,0 +1,12 @@
+---
+:id: 269675226
+:submitters:
+- :name: Nishchay Patil
+  :email: cs1230269@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-20 19:28:53.631330000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-20 12:28:53.631330000 Z
+:status: processed
+:score: 7.0
